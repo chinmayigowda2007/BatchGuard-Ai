@@ -1,4 +1,4 @@
-# BatchGuard-
+# BatchGuard-Ai
 AI-powered food business assistant for batch tracking, compliance guidance, production costing, and market readiness for micro food processors.
 
 
